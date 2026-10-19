@@ -1,0 +1,6 @@
+{
+  "name": "청춘 두뇌 테트리스 (Youth Brain Tetris)",
+  "description": "테트리스와 함께 논리력·기억력·공간지각력을 기르는 청춘 두뇌 단련 아케이드 게임",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
